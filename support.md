@@ -1,7 +1,7 @@
 # 🛠️ INFOTREX — SUPPORT
 **[Menu](/Menu.md)** | **[Terms](/terms.md)** | **[Support](/support.md)**
+Last Updated: March 17, 2026
 
-last updated 03/17/26
 **Issues? Follow this process:** 
 
 ---
