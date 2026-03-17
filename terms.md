@@ -1,4 +1,5 @@
 # 📜 INFOTREX — TERMS OF SERVICE
+**[Menu](/README.md)** | **[Terms](/terms.md)** | **[Support](/support.md)**
 
 **Last Updated:** March 17, 2026
 
