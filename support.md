@@ -1,7 +1,7 @@
 # 🛠️ INFOTREX — SUPPORT
 **[Menu](/Menu.md)** | **[Terms](/terms.md)** | **[Support](/support.md)**
 
-**Issues? Follow this process:**
+**Issues? Follow this process:** 
 
 ---
 
