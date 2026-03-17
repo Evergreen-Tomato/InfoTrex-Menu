@@ -1,5 +1,5 @@
 # 📜 INFOTREX — TERMS OF SERVICE
-**[Menu](/Menu.md)** | **[Terms](/terms.md)** | **[Support](/support.md)**
+**[Menu](/Menu)** | **[Terms](/terms.md)** | **[Support](/support.md)**
 
 **Last Updated:** March 17, 2026
 
