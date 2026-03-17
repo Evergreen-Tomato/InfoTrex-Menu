@@ -1,4 +1,5 @@
 # ❄️ InfoTrex Inventory ❄️
+**[Menu](/README.md)** | **[Terms](/terms.md)** | **[Support](/support.md)**
 
 **Last Updated:** March 17, 2026  
 **OPERATING HOURS:** 6:00 AM – 10:00 PM CET  
