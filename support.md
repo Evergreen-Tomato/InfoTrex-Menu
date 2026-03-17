@@ -1,5 +1,5 @@
 # 🛠️ INFOTREX — SUPPORT
-**[Menu](/Menu.md)** | **[Terms](/terms.md)** | **[Support](/support.md)**
+**[Menu](/Menu)** | **[Terms](/terms.md)** | **[Support](/support.md)**
 
 **Issues? Follow this process:**
 
