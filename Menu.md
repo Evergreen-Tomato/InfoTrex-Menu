@@ -1,7 +1,7 @@
 # ❄️ InfoTrex Inventory ❄️
 **[Menu](/Menu.md)** | **[Terms](/terms.md)** | **[Support](/support.md)**
 
-**Last Updated:** March 17, 2026  
+**Last Updated:** March 18, 2026  
 **OPERATING HOURS:** 6:00 AM – 10:00 PM CET  
 **PAYMENT:** XMR / BTC / USDT (TRC20)  
 **DELIVERY:** Timelines listed per category  
@@ -28,7 +28,7 @@ Learn to create your own credit cards with credit limit up to $4k. Everything in
 | # | Kit | Includes | Price |
 |---|-----|----------|-------|
 | 01 | Credit Line/ Card Application Package (Basic) | 1x 720+ High credit score fullz (SSN, DL front/back) + 1x OTP-ready US number + Step-by-step picture guide | $149 |
-| 02 | Credit Card/ line Application Package (Premium) | 1x 720+ High credit score fullz (SSN, DL front/back) + 1x US e-sim (18GB data, calls, texts) + Step-by-step picture guide | $189 |
+| 02 | Credit Card/ line Application Package (Premium) | 1x 720+ High credit score fullz (SSN, DL front/back) + 1x US e-sim (18GB data, calls, texts) + Credit Report (Newly added) Step-by-step picture guide | $189 |
 
 *Both kits include everything needed to apply for your own Credit card. Average approval: $300–$4,000 limit. Goes upto $15-25k*
 
