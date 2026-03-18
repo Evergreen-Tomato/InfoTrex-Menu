@@ -12,7 +12,7 @@
 ## 📋 HOW TO ORDER
 
 - DM @thegoldeniceberg or @MRMONKSX with item **NUMBER(S)**
-- Example: `02 Credit Card stater pack - $175` or `Custom: need Chase drop`
+- Example: `02 Credit Card stater pack - $189` or `Custom: need Chase drop`
 - Receive price + payment address
 - Send payment
 - Receive within guaranteed window
