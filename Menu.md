@@ -11,7 +11,7 @@
 
 ## 📋 HOW TO ORDER
 
-- DM @thegoldeniceberg or @MRMONKSX with item **NUMBER(S)**
+- DM @thegoldeniceberg or @MRMONKSX with item **NUMBER(S)** or Purchase on Argo market /seller/InfoTrex
 - Example: `02 Credit Card stater pack - $189` or `Custom: need Chase drop`
 - Receive price + payment address
 - Send payment
