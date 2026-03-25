@@ -33,6 +33,15 @@ Learn to create your own credit cards with credit limit up to $4k. Everything in
 *Both kits include everything needed to apply for your own Credit card. Average approval: $300–$4,000 limit. Goes upto $15-25k*
 
 ---
+## 🏦 WISE DROPS (Ready‑to‑Use Accounts)
+
+Fully verified Wise personal accounts with email + phone access. Multi‑currency, clean history, no prior usage.
+
+| # | Item | Includes | Price |
+|---|------|----------|-------|
+| 03 | **Wise Personal Account – Full Access** | Login + email access + TextVerified phone number (you renew), USD, EUR, GBP, AUD + all currencies, ability to order physical/virtual card | **$199** |
+
+*You take over, change password, add your own 2FA, and start using it immediately. 100% replacement if you can’t log in (proof required).*
 
 ## 💳 PREMIUM VCCs (Ready to Use)
 
@@ -124,9 +133,10 @@ Free linking to custom name and address included.
 
 | # | Item | Price | Delivery |
 |---|------|-------|----------|
+| 13 | Wise Multi Currency | $199 | 6h max |
 | 13 | Chase Bank Drop | $175 | 6h max |
 | 13 | Bank of America Drop | $175 | 6h max |
-| 13 | Custom Bank Drop (Chime, GO2, etc.) | $140 | 6h max |
+| 13 | Chime, GO2, etc. | $140 | 6h max |
 
 ---
 
