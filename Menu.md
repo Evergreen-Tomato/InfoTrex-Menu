@@ -39,7 +39,7 @@ Fully verified Wise personal accounts with email + phone access. Multi‑currenc
 
 | # | Item | Includes | Price |
 |---|------|----------|-------|
-| 03 | **Wise Personal Account – Full Access** | Login + email access + TextVerified phone number (you renew), USD, EUR, GBP, AUD + all currencies, ability to order physical/virtual card | **$199** |
+| 13 | **Wise Personal Account – Full Access** | Login + email access + TextVerified phone number (you renew), USD, EUR, GBP, AUD + all currencies, ability to order physical/virtual card | **$199** |
 
 *You take over, change password, add your own 2FA, and start using it immediately. 100% replacement if you can’t log in (proof required).*
 
